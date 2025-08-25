@@ -1,0 +1,174 @@
+{
+  "status": "success",
+  "data": {
+    "domain": "www.goai.solutions",
+    "llm_readiness_score": 42.4,
+    "letter_grade": "F",
+    "letter_grade_descriptive": "Failing",
+    "summary": "The website has poor AI readiness with a score of 42.4. Major improvements are required across all categories to achieve effective LLM optimization.",
+    "category_scores": {
+      "AI Content Processing & Extraction": 16,
+      "LLM Citation & Trust Signals": 13.5,
+      "AI-User Interaction Optimization": 8.0,
+      "Technical AI Accessibility": 2.4,
+      "AI Performance & Conversion": 2.5
+    },
+    "categories": [
+      {
+        "name": "AI Content Processing & Extraction",
+        "max_score": 30,
+        "score": 16,
+        "metrics": [
+          {
+            "name": "LLM Readability & Chunk Relevance",
+            "max_score": 12,
+            "score": 9,
+            "comments": "Good heading structure and list formatting for LLM processing."
+          },
+          {
+            "name": "Semantic Density & Entity Coverage",
+            "max_score": 10,
+            "score": 2,
+            "comments": "Limited semantic signals for AI content analysis."
+          },
+          {
+            "name": "Contextual Information Architecture",
+            "max_score": 8,
+            "score": 5,
+            "comments": "Basic navigation structure present."
+          }
+        ]
+      },
+      {
+        "name": "LLM Citation & Trust Signals",
+        "max_score": 25,
+        "score": 13.5,
+        "metrics": [
+          {
+            "name": "Citation Worthiness & Factual Accuracy",
+            "max_score": 10,
+            "score": 7,
+            "comments": "Some citation signals present."
+          },
+          {
+            "name": "Source Authority & Expertise Signals",
+            "max_score": 8.5,
+            "score": 6.5,
+            "comments": "Author and organizational information available."
+          },
+          {
+            "name": "AI Platform Visibility Score",
+            "max_score": 6.5,
+            "score": 0,
+            "comments": "Limited meta optimization affects AI platform visibility."
+          }
+        ]
+      },
+      {
+        "name": "AI-User Interaction Optimization",
+        "max_score": 21,
+        "score": 8.0,
+        "metrics": [
+          {
+            "name": "Direct Answer Optimization",
+            "max_score": 8.5,
+            "score": 2,
+            "comments": "Limited question-answer format for AI queries."
+          },
+          {
+            "name": "Conversational Query Alignment",
+            "max_score": 5,
+            "score": 1.5,
+            "comments": "Limited conversational language for AI interaction."
+          },
+          {
+            "name": "Voice Search Optimization",
+            "max_score": 4,
+            "score": 2,
+            "comments": "Limited voice search optimization."
+          },
+          {
+            "name": "AI-Driven Click-Through Potential",
+            "max_score": 3.5,
+            "score": 2.5,
+            "comments": "Clear call-to-action elements present."
+          }
+        ]
+      },
+      {
+        "name": "Technical AI Accessibility",
+        "max_score": 19,
+        "score": 2.4,
+        "metrics": [
+          {
+            "name": "Structured Data for AI Consumption",
+            "max_score": 7,
+            "score": 0,
+            "comments": "Missing structured data for AI processing."
+          },
+          {
+            "name": "Schema Markup Implementation",
+            "max_score": 4,
+            "score": 1.4,
+            "comments": "Missing schema markup for AI understanding."
+          },
+          {
+            "name": "LLM Crawlability & Processing Speed",
+            "max_score": 3,
+            "score": 0,
+            "comments": "Limited crawlability optimization."
+          },
+          {
+            "name": "Pre-rendering & JavaScript Optimization",
+            "max_score": 3,
+            "score": 0,
+            "comments": "Limited fallback content for AI crawlers."
+          },
+          {
+            "name": "Multimodal AI Compatibility",
+            "max_score": 2,
+            "score": 1,
+            "comments": "Good image accessibility for AI processing."
+          }
+        ]
+      },
+      {
+        "name": "AI Performance & Conversion",
+        "max_score": 5,
+        "score": 2.5,
+        "metrics": [
+          {
+            "name": "AI Conversion Rate",
+            "max_score": 2,
+            "score": 1,
+            "comments": "Conversion elements present for AI optimization."
+          },
+          {
+            "name": "Response Latency for AI Systems",
+            "max_score": 1.5,
+            "score": 0,
+            "comments": "Limited performance optimization indicators."
+          },
+          {
+            "name": "AI-Generated Summary Quality",
+            "max_score": 1.5,
+            "score": 1.5,
+            "comments": "Good content structure for AI summarization."
+          }
+        ]
+      }
+    ],
+    "top_5_critical_items": [
+      "Missing JSON-LD schema blocks LLM understanding.",
+      "No authorship or institutional credibility on key content.",
+      "Content lacks question-based formatting used in LLM queries.",
+      "Limited citation signals reduce AI trustworthiness.",
+      "Missing meta descriptions affect AI platform visibility."
+    ],
+    "top_5_warnings": [
+      "Meta descriptions are not optimized for AI snippets.",
+      "Voice-search formatting is absent, impacting discovery."
+    ],
+    "llm_visibility_assessment": "Poor AI discoverability. Content lacks LLM optimization with minimal structured signals, severely limiting citation potential and summary quality in AI platforms."
+  }
+}
